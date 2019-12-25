@@ -14,7 +14,7 @@ const IndexPage = () => (
     <p>Now go build something great.</p>
     <ul>
       <li><Link to="/1-building-blocks/">1 - Building Blocks</Link></li>
-      <li><Link to="/page-2/">Go to page 2</Link></li>
+      <li><Link to="/2-styling/">2 - Styling</Link></li>
     </ul>
   </Layout>
 )
