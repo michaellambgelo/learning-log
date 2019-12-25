@@ -2,9 +2,12 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
 const StylingPage = () => (
 	<Layout>
+		<SEO title="Styling"></SEO>
+		<h1>Styling</h1>
 		<p>In <Link to="https://www.gatsbyjs.org/tutorial/part-two/">this section</Link> I:</p>
 		<ul>
 			<li>learned about using global styles</li>
